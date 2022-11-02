@@ -1,0 +1,1 @@
+In this directory, the folders contain the images for training and test. Besides, the text (.txt) files contain the paths of the images. For example, the folder 'manmade_training' contains the manmade images for training, and the text file 'manmade_training.txt' contains the corresponding paths of the 'manmade_training' images. 
